@@ -1,0 +1,118 @@
+body {
+  background: linear-gradient(120deg, #e0c3fc 0%, #8ec5fc 100%);
+  padding-top: 100px;
+}
+
+form {
+  text-align: right;
+  text-size-adjust: 70px;
+}
+
+h1 {
+  color: darkgreen;
+  font-size: 70px;
+  text-shadow: cornflowerblue;
+}
+
+h2 {
+  font-size: 70px;
+}
+
+h3 {
+  text-align: center;
+  background: linear-gradient(
+    44.8deg,
+    rgba(255, 136, 102, 0.67) -53.1%,
+    rgba(255, 221, 136, 0.28) 49%
+  );
+}
+
+h4 {
+  text-align: right;
+  font-size: 20px;
+  font-family: "Roboto Mono", monospace;
+  margin: 0;
+  text-shadow: rgba(37, 39, 89, 0.08) 0px 8px 8px 0;
+  background: linear-gradient(
+    135deg,
+    rgb(255, 168, 168) 10%,
+    rgb(252, 255, 0) 100%
+  );
+}
+
+.btn-btn-success {
+  text-align: right;
+}
+
+.row {
+  color: white;
+  background: linear-gradient(to right, rgb(173, 83, 137), rgb(60, 16, 83));
+  text-align: center;
+}
+
+.row:hover {
+  font-size: 40px;
+  transition: all 150ms ease-in-out;
+}
+
+.sunny {
+  color: black;
+  font-size: 40px;
+  transition: all 150ms ease-in-out;
+}
+
+.sunny:hover {
+  font-size: 80px;
+  color: orange;
+}
+
+.showers {
+  color: black;
+  font-size: 40px;
+  transition: all 150ms ease-in-out;
+}
+
+.showers:hover {
+  font-size: 80px;
+  color: grey;
+}
+
+.snowflake {
+  color: black;
+  font-size: 40px;
+  transition: all 150ms ease-in-out;
+}
+
+.snowflake:hover {
+  font-size: 80px;
+  color: ivory;
+}
+
+.raining {
+  color: black;
+  font-size: 40px;
+  transition: all 150ms ease-in-out;
+}
+
+.raining:hover {
+  font-size: 80px;
+  color: blue;
+}
+
+.card {
+  background: radial-gradient(
+    circle at -8.9% 51.2%,
+    rgb(255, 124, 0) 0%,
+    rgb(255, 124, 0) 15.9%,
+    rgb(255, 163, 77) 15.9%,
+    rgb(255, 163, 77) 24.4%,
+    rgb(19, 30, 37) 24.5%,
+    rgb(19, 30, 37) 66%
+  );
+}
+
+.card-title,
+.card-text {
+  color: wheat;
+  text-align: center;
+}
